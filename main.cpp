@@ -99,7 +99,7 @@ int main() {
             game(score);
         }
         else if (choice == 2) {
-            return 0;
+            break;
         }
     }
 }
