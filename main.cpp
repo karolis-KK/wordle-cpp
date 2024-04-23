@@ -40,7 +40,7 @@ bool correct_spot(int index) {
 bool in_word(int index) {
     for (int i = 0; i < word.length(); i++)
     {
-        if (guess[i] == word_vector[i]) {
+        if (guess[index] == word_vector[i]) {
             word_vector[i] = ' ';
             return true;
         }
