@@ -8,4 +8,4 @@ Feel free to add more words to the `words.txt` file. If you choose to do so, rem
 uniform_int_distribution<int> dist(1, word count);
 ```
 
-**I recommend running the code in VS Code, because the colours in the console output might not show up in other IDEs**
+**I recommend running the code in VSC, because the colours in the console output might not show up in other IDEs**
