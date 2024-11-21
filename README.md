@@ -1,5 +1,8 @@
 # Wordle Clone
 
+To play, clone the repo and run the code:
+```git clone https://github.com/karolis-KK/wordle-cpp```
+
 ## Overview
 This project is a C++ implementation of a Wordle clone, inspired by the original game [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
