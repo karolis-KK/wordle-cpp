@@ -1,4 +1,5 @@
 # Wordle Clone
+![image](https://github.com/user-attachments/assets/c8ac6d27-b428-457b-87f3-a593e01bdcbd)
 
 To play, clone the repo and run the code:
 ```git clone https://github.com/karolis-KK/wordle-cpp```
